@@ -1,2 +1,2 @@
 # cause-workshop-2025
-Workshop CauSE 2025
+Website for the Workshop CauSE 2025
