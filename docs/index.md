@@ -17,6 +17,10 @@ The workshop will accept the following types of contributions
 - Position/short papers (maximum 4 pages) that present forward-looking ideas or work in progress with emerging results, thought-provoking reflections, or that propose potential new directions for the community.
 - Tool and artefact papers (maximum 4 pages) for researchers wishing to present tools, tool extensions or artefacts (e.g. benchmark datasets) relevant to the workshop.
 
+# Program Committee
+
+TDB
+
 # Important Dates:
 
 - Workshop papers submission Tuesday Feb 25th, 2025
@@ -24,6 +28,8 @@ The workshop will accept the following types of contributions
 - Workshop papers camera-ready (hard) Thursday Apr 24th, 2025
 
 # Call for Papers:
+
+TBD
 
 
 # Organizers and contacts
