@@ -17,9 +17,13 @@ The workshop will accept the following types of contributions
 - Position/short papers (maximum 4 pages) that present forward-looking ideas or work in progress with emerging results, thought-provoking reflections, or that propose potential new directions for the community.
 - Tool and artefact papers (maximum 4 pages) for researchers wishing to present tools, tool extensions or artefacts (e.g. benchmark datasets) relevant to the workshop.
 
-# Program Committee
+# Program Committee (tentative)
 
-TDB
+- Prof.	Richard	Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+- Prof.	Robert Feldt. Chalmers University of Technology Göteborg, Sweden.
+- Dr. Seongmin Lee. Max Plank Institute Bochum, Germany.
+- Dr. Tim A. D. Henderson. Google Inc. Mountain View, CA, USA.
+- Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, UK.
 
 # Important Dates:
 
