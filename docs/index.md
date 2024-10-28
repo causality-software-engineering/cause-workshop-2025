@@ -19,11 +19,24 @@ The workshop will accept the following types of contributions
 
 # Program Committee (tentative)
 
-- Prof.	Richard	Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
-- Prof.	Robert Feldt. Chalmers University of Technology Göteborg, Sweden.
-- Dr. Seongmin Lee. Max Plank Institute Bochum, Germany.
+- Prof. Alexander Pretschner. Technical University of Munich, Munich, Germany.
+- Prof. Andrea Alexander Janes. Free University of Bozen/Bolzano, Bozen/Bolzano, Italy. 
+- Prof. Carlo A. Furia. Università della Svizzera italiana, Lugano, Switzerland.
+- Dr. Carlos Paradis. KBR Inc. CA, United States.
+- Dr. Hans-Martin Heyn. "Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+- Prof. Jacopo Soldani. University of Pisa, Pisa, Italy.
+- Julian Frattini. Blekinge Institute of Technology, Karlskrona, Sweden.
+- Prof. Jürgen Mottok. Software Engineering Laboratory for Safe and Secure Systems (LaS³), OTH Regensburg, Regensburg, Germany.
+- Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
+- Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, London, UK.
+- Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+- Prof. Robert Feldt. Department of Computer Science and Engineering, Chalmers University of Technology Göteborg, Sweden
+- Dr. Seongmin Lee. Max Planck Institute for Security and Privacy, Bochum, Germany.
+- Prof. Stefano Russo. DIETI, Universit`a degli Studi di Napoli Federico II, Napoli, Italy.
+- Dr. Subhajit Datta. Heritage Institute of Technology, Kolkata, India.
+- Prof. Subhashis Majumder. Heritage Institute of Technology, Kolkata, India.
 - Dr. Tim A. D. Henderson. Google Inc. Mountain View, CA, USA.
-- Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, UK.
+
 
 # Important Dates:
 
