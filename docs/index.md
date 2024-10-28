@@ -33,8 +33,8 @@ The workshop will accept the following types of contributions
 - Prof. Robert Feldt. Department of Computer Science and Engineering, Chalmers University of Technology Göteborg, Sweden
 - Dr. Seongmin Lee. Max Planck Institute for Security and Privacy, Bochum, Germany.
 - Prof. Stefano Russo. DIETI, Universit`a degli Studi di Napoli Federico II, Napoli, Italy.
-- Dr. Subhajit Datta. Heritage Institute of Technology, Kolkata, India.
-- Prof. Subhashis Majumder. Heritage Institute of Technology, Kolkata, India.
+- Dr. Subhajit Datta. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
+- Prof. Subhashis Majumder. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
 - Dr. Tim A. D. Henderson. Google Inc. Mountain View, CA, USA.
 
 
