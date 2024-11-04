@@ -23,12 +23,13 @@ The workshop will accept the following types of contributions
 - Prof. Andrea Alexander Janes. Free University of Bozen/Bolzano, Bozen/Bolzano, Italy. 
 - Prof. Carlo A. Furia. Università della Svizzera italiana, Lugano, Switzerland.
 - Dr. Carlos Paradis. KBR Inc. CA, United States.
-- Dr. Hans-Martin Heyn. "Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+- Dr. Hans-Martin Heyn. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
 - Prof. Jacopo Soldani. University of Pisa, Pisa, Italy.
 - Julian Frattini. Blekinge Institute of Technology, Karlskrona, Sweden.
 - Prof. Jürgen Mottok. Software Engineering Laboratory for Safe and Secure Systems (LaS³), OTH Regensburg, Regensburg, Germany.
 - Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
 - Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, London, UK.
+- Dr. Rayven Plaza. Google Inc. New York, NY, USA.
 - Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
 - Prof. Robert Feldt. Department of Computer Science and Engineering, Chalmers University of Technology Göteborg, Sweden
 - Dr. Seongmin Lee. Max Planck Institute for Security and Privacy, Bochum, Germany.
@@ -36,6 +37,7 @@ The workshop will accept the following types of contributions
 - Dr. Subhajit Datta. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
 - Prof. Subhashis Majumder. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
 - Dr. Tim A. D. Henderson. Google Inc. Mountain View, CA, USA.
+
 
 
 # Important Dates:
