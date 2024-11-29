@@ -1,5 +1,7 @@
 # Description
 
+This workshop is organized in the context of the ACM International Conference on the Foundations of Software Engineering (FSE2025). Mon 23 - Fri 27 June 2025 Trondheim, Norway. https://conf.researchr.org/home/fse-2025
+
 ## Motivation
 
 Despite their potential, causal methods have not yet been leveraged by the software engineering community. While preliminary studies demonstrated their benefit in specific areas, their broad and systematic exploitation for software engineering is still far from coming. The objective of this workshop is to provide the first platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. The broader aim is to foster networking and open new collaboration opportunities, encouraging the development of a new strong community.
