@@ -60,6 +60,7 @@ Depending upon the number of submission the workshop will be either half a day o
 - Prof. Jacopo Soldani. University of Pisa, Pisa, Italy.
 - Julian Frattini. Blekinge Institute of Technology, Karlskrona, Sweden.
 - Prof. Jürgen Mottok. Software Engineering Laboratory for Safe and Secure Systems (LaS³), OTH Regensburg, Regensburg, Germany.
+- Prof. Martin Shepperd. College of Engineering, Design and Physical Sciences, Brunel University of London, London, UK.
 - Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
 - Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, London, UK.
 - Dr. Rayven Plaza. Google Inc. New York, NY, USA.
