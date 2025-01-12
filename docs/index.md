@@ -65,6 +65,7 @@ Depending upon the number of submission the workshop will be either half a day o
 - Prof. Martin Shepperd. College of Engineering, Design and Physical Sciences, Brunel University of London, London, UK.
 - Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
 - Prof. Mohammad Reza Mousavi. Department of Informatics, King's College London, London, UK.
+- Dr. Mirko Perkusich. VIRTUS/UFCG, Campina Grande, Brazil.
 - Dr. Rayven Plaza. Google Inc. New York, NY, USA.
 - Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
 - Prof. Robert Feldt. Department of Computer Science and Engineering, Chalmers University of Technology Göteborg, Sweden
