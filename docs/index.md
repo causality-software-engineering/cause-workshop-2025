@@ -12,7 +12,6 @@ This workshop aims to bring together researchers, practitioners, and students to
 The workshop will provide a platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. It will also facilitate networking and collaboration opportunities, encouraging the development of a strong community.
 
 # Call for papers:
-For convenience, you can download the Call for Papers as a text file here: [CFP.txt](https://github.com/causality-software-engineering/cause-workshop-2025/blob/main/docs/CFP.txt). It contains the same information as shown here.
 
 ## Topics of interest:
 The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc. 
