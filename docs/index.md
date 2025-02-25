@@ -37,8 +37,8 @@ At least one author of each accepted paper must register for, attend the worksho
 
 ## Important Dates:
 
-- Workshop papers submission (~~Tuesday Feb 25th, 2025~~) **Extended: March 7th, 2025, AoE  **
-- Workshop papers notification (~~Tuesday Mar 25th, 2025~~) **Extended: April 1st, 2025, AoE **
+- Workshop papers submission (~~Tuesday Feb 25th, 2025~~) **Extended: March 7th, 2025, AoE**
+- Workshop papers notification (~~Tuesday Mar 25th, 2025~~) **Extended: April 1st, 2025, AoE**
 - Workshop papers camera-ready (hard) **Thursday Apr 24th, 2025**
 
 ## Link to the submission system:
