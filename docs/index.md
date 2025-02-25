@@ -11,7 +11,7 @@ This workshop aims to bring together researchers, practitioners, and students to
 ## Workshop goals
 The workshop will provide a platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. It will also facilitate networking and collaboration opportunities, encouraging the development of a strong community.
 
-# Call for papers:
+# Call for papers
 
 ## Topics of interest:
 The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc. 
