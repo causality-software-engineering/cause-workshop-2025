@@ -32,14 +32,14 @@ Submitted papers should present original, unpublished work, relevant to one of t
 * Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
 * Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop. 
 
-Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2025 format and submission guidelines. 
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2025 format and submission guidelines. **The workshop will employ a double-anonymous review process**.
 All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2025 companion proceedings. 
 At least one author of each accepted paper must register for, attend the workshop, and present the results.
 
 ## Important Dates:
 
-- Workshop papers submission Tuesday Feb 25th, 2025
-- Workshop papers notification Tuesday Mar 25th, 2025
+- Workshop papers submission (~~Tuesday Feb 25th, 2025~~) Extended: March 7th, 2025, AoE  
+- Workshop papers notification (~~Tuesday Mar 25th, 2025~~) Extended: April 1st, 2025, AoE 
 - Workshop papers camera-ready (hard) Thursday Apr 24th, 2025
 
 ## Link to the submission system:
@@ -50,8 +50,6 @@ https://cause2025.hotcrp.com/
 # Workshop agenda (WIP)
 
 Depending upon the number of submission the workshop will be either half a day of a full day.
-
-
 
 
 # Program Committee
