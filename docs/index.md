@@ -33,7 +33,6 @@ Submitted papers should present original, unpublished work, relevant to one of t
 
 Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2025 format and submission guidelines. **The workshop will employ a double-anonymous review process**.
 All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2025 companion proceedings. 
-At least one author of each accepted paper must register for, attend the workshop, and present the results.
 
 ## Important Dates:
 
