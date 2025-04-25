@@ -86,7 +86,7 @@ Model checking and verification play a crucial role in ensuring the correctness 
 1. Herong Meng (Imperial College London)
 2. Dalal Alrajeh (Imperial College London)
 
-## SHort papers (4 pages)
+## Short papers (4 pages)
 
 ### Causal Models in Requirement Specifications for Machine Learning: A vision
 
