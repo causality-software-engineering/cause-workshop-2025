@@ -46,6 +46,8 @@ https://cause2025.hotcrp.com/
 
 # Accepted papers:
 
+## Long papers (8 pages)
+
 ### AmocRCA: At Most One Change Segmentation and Relative Correlation Ranking for Root Cause Analysis
 
 #### Abstract
@@ -64,6 +66,27 @@ Causal reasoning is a promising and increasingly popular approach for testing co
 #### Authors
 1. Luca Devlin (University of Sheffield)
 2. Michael Foster (University of Sheffield)
+
+### The Causality of Bug Resolution: A Tale of Two Systems
+
+#### Abstract
+Timely and effective bug resolution is a central concern of software development; more so, for systems that serve needs of real-world users. A large body of software engineering research literature involves studies on bug resolution processes. Many of these studies are correlational in nature, as they analyze historical data to uncover factors influencing bug resolution times. Understanding what \textit{causes} software bugs to be resolved faster is of critical interests to developers, customers, and end users. Randomized controlled trials (RCT) -- widely used in establishing causal effects in other areas such as medical research -- are not feasible in a real-world software development scenario. Thus causal inference techniques are essential in such settings to isolate the influences on bug resolution times. In this paper we propose a model of factors affecting quick resolution of bugs. The model is validated on two real-world datasets, leading us to identify key determinants of bug resolution times. Our results offer valuable insights for individual developers, project managers, and development organizations.
+
+#### Authors
+1. Reshmi Maulik (Meghnad Saha Institute of Technology)
+2. Subhajit Datta (Heritage Institute of Technology)
+3. Subhashis majumder (Heritage institute of Technology)
+
+### Causal Detection in Linear Temporal Counterexamples
+
+#### Abstract
+Model checking and verification play a crucial role in ensuring the correctness of software systems by systematically analyzing whether a system satisfies desired specifications. Diagnosing property violations in LTL counterexamples is essential for debugging and refining software, helping developers identify faults and ensure requirement compliance. Several approaches have considered the use of causal reasoning to aid in the identification and explanation of counterexamples. However, these methods are often limited in their expressivity, ability to recognize complex dependencies in system behaviors, or computational feasibility. This paper proposes a revised definition of causes for LTL violations in counterexamples, allowing for the identification of conjunctive causes. Additionally, we introduce a novel algorithm for computing such causes and compare it against a baseline causal computation algorithm using a benchmark of industrial specifications. In all comparisons, our algorithm either subsumes baseline causes, identifies stronger causes, or diverges from the baseline in explainable ways, demonstrating its effectiveness in enhancing counterexample analysis.
+
+#### Authors
+1. Herong Meng (Imperial College London)
+2. Dalal Alrajeh (Imperial College London)
+
+## SHort papers (4 pages)
 
 ### Causal Models in Requirement Specifications for Machine Learning: A vision
 
@@ -91,25 +114,6 @@ computational efficiency, and outline future directions for integrating causalit
 #### Authors
 1. Fatemeh Vares (George Mason University)
 2. Brittany Johnson (George Mason University)
-
-### The Causality of Bug Resolution: A Tale of Two Systems
-
-#### Abstract
-Timely and effective bug resolution is a central concern of software development; more so, for systems that serve needs of real-world users. A large body of software engineering research literature involves studies on bug resolution processes. Many of these studies are correlational in nature, as they analyze historical data to uncover factors influencing bug resolution times. Understanding what \textit{causes} software bugs to be resolved faster is of critical interests to developers, customers, and end users. Randomized controlled trials (RCT) -- widely used in establishing causal effects in other areas such as medical research -- are not feasible in a real-world software development scenario. Thus causal inference techniques are essential in such settings to isolate the influences on bug resolution times. In this paper we propose a model of factors affecting quick resolution of bugs. The model is validated on two real-world datasets, leading us to identify key determinants of bug resolution times. Our results offer valuable insights for individual developers, project managers, and development organizations.
-
-#### Authors
-1. Reshmi Maulik (Meghnad Saha Institute of Technology)
-2. Subhajit Datta (Heritage Institute of Technology)
-3. Subhashis majumder (Heritage institute of Technology)
-
-### Submission #14: Causal Detection in Linear Temporal Counterexamples
-
-#### Abstract
-Model checking and verification play a crucial role in ensuring the correctness of software systems by systematically analyzing whether a system satisfies desired specifications. Diagnosing property violations in LTL counterexamples is essential for debugging and refining software, helping developers identify faults and ensure requirement compliance. Several approaches have considered the use of causal reasoning to aid in the identification and explanation of counterexamples. However, these methods are often limited in their expressivity, ability to recognize complex dependencies in system behaviors, or computational feasibility. This paper proposes a revised definition of causes for LTL violations in counterexamples, allowing for the identification of conjunctive causes. Additionally, we introduce a novel algorithm for computing such causes and compare it against a baseline causal computation algorithm using a benchmark of industrial specifications. In all comparisons, our algorithm either subsumes baseline causes, identifies stronger causes, or diverges from the baseline in explainable ways, demonstrating its effectiveness in enhancing counterexample analysis.
-
-#### Authors
-1. Herong Meng (Imperial College London)
-2. Dalal Alrajeh (Imperial College London)
 
 ### Authorship of Minor Contributors in Kubernetes Configuration Scripts: An Exploratory Study
 
