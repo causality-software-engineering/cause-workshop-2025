@@ -46,39 +46,39 @@ https://cause2025.hotcrp.com/
 
 # Accepted papers:
 
-## AmocRCA: At Most One Change Segmentation and Relative Correlation Ranking for Root Cause Analysis
+### AmocRCA: At Most One Change Segmentation and Relative Correlation Ranking for Root Cause Analysis
 
-### Abstract
+#### Abstract
 In this paper, we present AmocRCA, a highly effective and efficient approach to Root Cause Analysis (RCA) using metric data only. A fast and reliable localization of root causes is decisive for self-stabilization of large systems in production and thus for continuous operation. Unlike many multi-modal approaches, we omit the necessity to create and maintain topology and interaction graphs as well as to collect and interpret semantically rich data such as logs and traces for the sake of quick localization/reaction and low computational overhead while achieving comparable results in terms of RCA precision. AmocRCA is based on a recent and promising approach for RCA named BARO. It leverages At Most One Change (AMOC) segmentation to make the scoring mechanism independent of anomaly detection, and employs a relative correlation ranking that enhances the scoring mechanism while reducing the need for a preselected set of metrics. The experimental results confirm the improvement in terms of effectiveness, while achieving comparable efficiency. The latter is an important requirement for deploying the method in productive large-scale, data-intensive applications, where fault localization has a limited time constraint.
 
-### Authors
+#### Authors
 1. Anton Altenbernd (Technische Universität Berlin)
 2. Zhiyuan Wu (Huawei)
 3. Odej Kao (Technische Universität Berlin)
 
-## Evolving Estimation Models for Causal Testing
+### Evolving Estimation Models for Causal Testing
 
-### Abstract
+#### Abstract
 Causal reasoning is a promising and increasingly popular approach for testing complex software systems that cannot be tested using conventional approaches. This involves using a causal model and previous execution data to estimate and validate causal relationships between variables. To produce accurate causal estimates and reliable test outcomes, current approaches rely on users to specify the equational relationships between variables or sacrifice explainability for automation by using black-box estimation. In this paper, we present a hybrid between genetic programming and linear regression to automatically infer human-readable non-linear equations that can be used to evaluate causal test cases. Our results show that our technique tends to produce more accurate causal estimates and more reliable test outcomes than either technique used in isolation.
 
-### Authors
+#### Authors
 1. Luca Devlin (University of Sheffield)
 2. Michael Foster (University of Sheffield)
 
-## Causal Models in Requirement Specifications for Machine Learning: A vision
+### Causal Models in Requirement Specifications for Machine Learning: A vision
 
-### Abstract
+#### Abstract
 Specifying data requirements for machine learning (ML) software systems remains a challenge in requirements engineering (RE). This vision paper explores causal modelling as an RE activity that allows the systematic integration of prior domain knowledge into the design of ML software systems. We propose a workflow to elicit low-level model and data requirements from high-level prior knowledge using causal models. The approach is demonstrated on an industrial fault detection system. This paper outlines future research needed to establish causal modelling as an RE practice.
 
-### Authors
+#### Authors
 1. Hans-Martin Heyn (Chalmers University of Technology and University of Gothenburg)
 2. Yufei Mao (Siemens AG)
 3. Roland Weiß (Siemens AG)
 4. Eric Knauss (Chalmers University of Technology and University of Gothenburg)
 
-## Causality-Driven Neural Network Repair: Challenges and Opportunities
+### Causality-Driven Neural Network Repair: Challenges and Opportunities
 
-### Abstract
+#### Abstract
 Deep Neural Networks (DNNs) often rely on statistical correlations rather than causal reasoning, limiting their robustness and
 interpretability. While testing methods can identify failures, effective debugging and repair remain challenging. This paper explores
 causal inference as an approach primarily for DNN repair, leveraging causal debugging, counterfactual analysis, and structural causal
@@ -88,45 +88,45 @@ backdoor mitigation by providing targeted interventions. Finally,
 we discuss key challenges, including scalability, generalization, and
 computational efficiency, and outline future directions for integrating causality-driven interventions to enhance DNN reliability.
 
-### Authors
+#### Authors
 1. Fatemeh Vares (George Mason University)
 2. Brittany Johnson (George Mason University)
 
-## The Causality of Bug Resolution: A Tale of Two Systems
+### The Causality of Bug Resolution: A Tale of Two Systems
 
-### Abstract
+#### Abstract
 Timely and effective bug resolution is a central concern of software development; more so, for systems that serve needs of real-world users. A large body of software engineering research literature involves studies on bug resolution processes. Many of these studies are correlational in nature, as they analyze historical data to uncover factors influencing bug resolution times. Understanding what \textit{causes} software bugs to be resolved faster is of critical interests to developers, customers, and end users. Randomized controlled trials (RCT) -- widely used in establishing causal effects in other areas such as medical research -- are not feasible in a real-world software development scenario. Thus causal inference techniques are essential in such settings to isolate the influences on bug resolution times. In this paper we propose a model of factors affecting quick resolution of bugs. The model is validated on two real-world datasets, leading us to identify key determinants of bug resolution times. Our results offer valuable insights for individual developers, project managers, and development organizations.
 
-### Authors
+#### Authors
 1. Reshmi Maulik (Meghnad Saha Institute of Technology)
 2. Subhajit Datta (Heritage Institute of Technology)
 3. Subhashis majumder (Heritage institute of Technology)
 
-## Submission #14: Causal Detection in Linear Temporal Counterexamples
+### Submission #14: Causal Detection in Linear Temporal Counterexamples
 
-### Abstract
+#### Abstract
 Model checking and verification play a crucial role in ensuring the correctness of software systems by systematically analyzing whether a system satisfies desired specifications. Diagnosing property violations in LTL counterexamples is essential for debugging and refining software, helping developers identify faults and ensure requirement compliance. Several approaches have considered the use of causal reasoning to aid in the identification and explanation of counterexamples. However, these methods are often limited in their expressivity, ability to recognize complex dependencies in system behaviors, or computational feasibility. This paper proposes a revised definition of causes for LTL violations in counterexamples, allowing for the identification of conjunctive causes. Additionally, we introduce a novel algorithm for computing such causes and compare it against a baseline causal computation algorithm using a benchmark of industrial specifications. In all comparisons, our algorithm either subsumes baseline causes, identifies stronger causes, or diverges from the baseline in explainable ways, demonstrating its effectiveness in enhancing counterexample analysis.
 
-### Authors
+#### Authors
 1. Herong Meng (Imperial College London)
 2. Dalal Alrajeh (Imperial College London)
 
-## Authorship of Minor Contributors in Kubernetes Configuration Scripts: An Exploratory Study
+### Authorship of Minor Contributors in Kubernetes Configuration Scripts: An Exploratory Study
 
-### Abstract
+#### Abstract
 Kubernetes is a popular open source software (OSS) tool to manage containers at scale. Despite being beneficial for rapid deployment, Kubernetes-based software deployments are susceptible to defects that can lead to serious consequences. A systematic analysis of development-related factors that cause defects can aid practitioners on how to mitigate these defects. We conduct an exploratory empirical study where we use causal analysis to quantify the impact of one development factor called minor contributors, which refers to practitioners who author <5% of the total code. By analyzing 29,028 commits from 157 OSS repositories, we observe (i) 5.6% of the 29,028 commits to be authored by minor contributors; and (ii) authorship of minor contributors to impact defects in configuration scripts. Based on our findings, we recommend researchers to (1) further investigate the characteristics of minor contributors; and (2) identify other development-related factors that may have a causal impact on defects in Kubernetes configuration scripts.
 
-### Authors
+#### Authors
 1. Akond Rahman (Auburn University)
 2. Gerry Dozier (Auburn University)
 3. Yue Zhang (Auburn University)
 
-## Causal Inference Needs More Than Analysis: The Role of Study Design
+### Causal Inference Needs More Than Analysis: The Role of Study Design
 
-### Abstract
+#### Abstract
 In a variety of research fields, causal inference methods have demonstrated potential benefits in identifying and estimating causal relationships from observational data. These methods have started to receive increasing attention in software engineering as well. However, the investigation of causal relationships can be challenging when dealing with observational data. In this paper, we uphold the position that data analysis alone is not enough and a proper design is always needed to detect reliable causal relationships. To this end, we describe the fundamental conditions needed to reveal causal relationships, the challenges of observational studies in satisfying them, and the mechanisms to overcome those challenges.
 
-### Authors
+#### Authors
 1. Sabato Nocera (University of Salerno)
 2. Sira Vegas (Universidad Politécnica de Madrid)
 3. Giuseppe Scanniello (University of Salerno)
