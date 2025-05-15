@@ -46,7 +46,8 @@ https://cause2025.hotcrp.com/
 
 # Workshop Program
 
-# KeyNote: Towards an Interpretable Science of Deep Learning for Software Engineering: A Causal Inference View
+# Keynote: Prof. Denys Poshyvanyk
+### Towards an Interpretable Science of Deep Learning for Software Engineering: A Causal Inference View
 ## Abstract
 Neural Code Models (NCMs) are rapidly progressing from research
 prototypes to commercial developer tools. As such, understanding the
