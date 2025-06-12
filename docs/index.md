@@ -45,22 +45,23 @@ All submissions will be refereed by three members of the program committee. Acce
 https://cause2025.hotcrp.com/
 
 # Workshop Program
+Short papers will be 15-minute presentations followed by 5 minutes of Q&A. Regular papers will be 20-minute presentations followed by 5 minutes of Q&A.
 
 | Time | Topic | Title |
 |------------------------------------|-----------------|-------------------|
 | Session 1 – 9:00–10:30             |   |   |
 | 9:00-9:10	                         | Introduction (10 min)  | |
 | 9:10-10:10	                       | Keynote (60 min)       | Towards an Interpretable Science of Deep Learning for Software Engineering: A Causal Inference View |
-| 10:10-10:30                      	 | Short paper (20 min)   | Causal Models in Requirement Specifications for Machine Learning: A vision | 
+| 10:10-10:30                      	 | Short paper (15+5 min)   | Causal Models in Requirement Specifications for Machine Learning: A vision | 
 | Session 2 – 14:00–15:30	           |   |   |
-| 14:00-14:25	                       | Regular paper (25 min) | The Causality of Bug Resolution: A Tale of Two Systems |
-| 14:25-14:50                        | Regular paper (25 min) | Evolving Estimation Models for Causal Testing |
-| 14:50-15:10	                       | Short paper (20 min)   | Authorship of Minor Contributors in Kubernetes Configuration Scripts: An Exploratory Study |
-| 15:10-15:30	                       | Short paper (20 min)   | Causal Inference Needs More Than Analysis: The Role of Study Design |
+| 14:00-14:25	                       | Regular paper (20+5 min) | The Causality of Bug Resolution: A Tale of Two Systems |
+| 14:25-14:50                        | Regular paper (20+5 min) | Evolving Estimation Models for Causal Testing |
+| 14:50-15:10	                       | Short paper (15+5 min)   | Authorship of Minor Contributors in Kubernetes Configuration Scripts: An Exploratory Study |
+| 15:10-15:30	                       | Short paper (15+5 min)   | Causal Inference Needs More Than Analysis: The Role of Study Design |
 | Session 3 – 16:00–17:30	           |   |   |
-| 16:00-16:25	                       | Regular paper (25 min) | AmocRCA: At Most One Change Segmentation and Relative Correlation Ranking for Root Cause Analysis |
-| 16:25-16:50	                       | Regular paper (25 min) | Causal Detection in Linear Temporal Counterexamples |
-| 16:50-17:10	                       | Short paper (20 min)   | Causality-Driven Neural Network Repair: Challenges and Opportunities |
+| 16:00-16:25	                       | Regular paper (20+5 min) | AmocRCA: At Most One Change Segmentation and Relative Correlation Ranking for Root Cause Analysis |
+| 16:25-16:50	                       | Regular paper (20+5 min) | Causal Detection in Linear Temporal Counterexamples |
+| 16:50-17:10	                       | Short paper (15+5 min)   | Causality-Driven Neural Network Repair: Challenges and Opportunities |
 | 17:10-17:30	                       | Wrap-up (20 min)       |
 
 
